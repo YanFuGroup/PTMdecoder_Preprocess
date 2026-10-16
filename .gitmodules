@@ -1,0 +1,3 @@
+[submodule "external/PTMdecoder"]
+	path = external/PTMdecoder
+	url = https://github.com/YanFuGroup/PTMdecoder.git

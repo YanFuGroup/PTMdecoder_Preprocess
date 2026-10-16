@@ -1,0 +1,6 @@
+Raw file	Scan number	Charge	Sequence	Mass	Mass error [Da]	m/z	Number of matches	Proteins	Modified sequence	Reverse	Score
+Test_A	101	2	AS	200	0.01	101.007276	5	P001;CON__example	_AS(Phospho (STY))_		42
+Test_A	102	2	AS	200	0.02	101.007276	4	P002	_AS_		40
+Test_B	103	3	TS	300	0.00	101.007276	7	CON__example	_T(Phospho (STY))S_		38
+Test_A	104	2	AS	200	0.01	101.007276	5	P004	_AS(Phospho (STY))_	+	30
+Test_B	105	2	TY	220		111.007276		P003	_T(Phospho (STY))Y_		50

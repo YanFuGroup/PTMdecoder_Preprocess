@@ -1,0 +1,17 @@
+# Machine-specific configuration.
+/local_paths.yaml
+
+# Local data, generated outputs, and validation material.
+/data/
+/outputs/
+/candidates/
+/integration/
+*.partial/
+
+# MATLAB and system artifacts.
+*.asv
+.DS_Store
+
+# Python test artifacts
+__pycache__/
+*.pyc

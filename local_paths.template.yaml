@@ -1,0 +1,3 @@
+# Copy this file to local_paths.yaml and set the input root outside this repository.
+# local_paths.yaml is ignored by git.
+data_root: ""
